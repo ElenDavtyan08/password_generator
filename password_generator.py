@@ -1,6 +1,6 @@
 import random
 import string
-
+# Just checking how to edit file
 def generate_password(min_lenght, numbers = True, special_characters = True):
     letters = string.ascii_letters
     digits = string.digits
